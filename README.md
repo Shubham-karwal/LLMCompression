@@ -1,2 +1,2 @@
-# Wordora
-Wordora is an interactive vocabulary-building Android application designed for competitive exam aspirants. Built using Flutter and Dart, the app helps users improve their English vocabulary through structured practice and engaging word sets.
+# LLM Compression
+LLM Compression is a research-driven project focused on optimizing Large Language Models by reducing their memory footprint and computational requirements without compromising performance. The project explores techniques such as quantization, pruning, and knowledge distillation to enhance model efficiency and deployability on resource-constrained hardware. It demonstrates how intelligent compression methods can significantly accelerate inference while maintaining model accuracy, enabling more sustainable and accessible AI solutions..
